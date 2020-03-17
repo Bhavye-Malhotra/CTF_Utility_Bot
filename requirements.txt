@@ -6,3 +6,4 @@ pymongo
 pprint
 colorthief
 requests
+python-dateutil
