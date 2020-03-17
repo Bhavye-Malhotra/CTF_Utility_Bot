@@ -1,0 +1,7 @@
+discord
+dnspython
+colorama
+asyncio
+pymongo
+pprint
+colorthief
