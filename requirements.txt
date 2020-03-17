@@ -6,3 +6,7 @@ pymongo
 pprint
 colorthief
 requests
+urllib
+base64
+json
+binascii
